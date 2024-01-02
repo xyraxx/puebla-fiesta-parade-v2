@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Puebla Fiesta Parade</string>
+    <string name="ads_id">ca-app-pub-9426884596605370~7253458425</string>
+    <string name="ads_small">ca-app-pub-9426884596605370/4243355542</string>
+
+    <string name="win_splash">YOU WON!</string>
+    <string name="coins">coins</string>
+</resources>
